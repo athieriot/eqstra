@@ -1,6 +1,6 @@
 {
   "name": "eqstra",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extra functional methods to Q promises",
   "main": "eqstra.js",
   "scripts": {
