@@ -12,9 +12,7 @@ var Extra = {
   },
 
   flatMap: function (list, f) {
-    return Extra
-    .map(list, f)
-    .then(Extra.flatten);
+    return Extra.map(list, f).then(Extra.flatten);
   }
 }
 
