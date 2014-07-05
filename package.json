@@ -1,0 +1,11 @@
+{
+  "name": "eqstra",
+  "version": "0.0.1",
+  "description": "Extra functional methods to Q promises",
+  "main": "eqstra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aurélien Thieriot",
+  "license": "MIT"
+}
